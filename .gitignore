@@ -1,0 +1,7 @@
+lib/
+.project
+node_modules/
+.class
+bin/
+out/
+.idea/
